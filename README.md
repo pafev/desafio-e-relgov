@@ -25,6 +25,6 @@ As informações devem ser apresentadas em uma tabela organizada e de fácil ent
 
 ## Ideias anteriormente pensadas
 - Utilização de BeatifulSoup: não é possível devido ao fato do site das agendas do Banco Central não utilizar state em URL
-- Utilização de Selenium: devido à quantidade grande de dados, o script com essa lib teria muito pouco desenvolvimento
+- Utilização de Selenium: devido à quantidade grande de dados, o script com essa lib teria muito pouco desempenho
 
   
